@@ -1,0 +1,13 @@
+E:\Code\OS\PageManage\PageManage\bin\Debug\PageManage.exe.config
+E:\Code\OS\PageManage\PageManage\bin\Debug\PageManage.exe
+E:\Code\OS\PageManage\PageManage\bin\Debug\PageManage.pdb
+E:\Code\OS\PageManage\PageManage\obj\Debug\PageManage.csprojResolveAssemblyReference.cache
+E:\Code\OS\PageManage\PageManage\obj\Debug\PageManage.MainForm.resources
+E:\Code\OS\PageManage\PageManage\obj\Debug\PageManage.Properties.Resources.resources
+E:\Code\OS\PageManage\PageManage\obj\Debug\PageManage.csproj.GenerateResource.Cache
+E:\Code\OS\PageManage\PageManage\obj\Debug\PageManage.exe
+E:\Code\OS\PageManage\PageManage\obj\Debug\PageManage.pdb
+E:\Code\OS\PageManage\PageManage\bin\Debug\PageManage.exe.manifest
+E:\Code\OS\PageManage\PageManage\bin\Debug\PageManage.application
+E:\Code\OS\PageManage\PageManage\obj\Debug\PageManage.exe.manifest
+E:\Code\OS\PageManage\PageManage\obj\Debug\PageManage.application
